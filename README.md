@@ -1,0 +1,2 @@
+# Next.js Blank Page Rendering Bug
+This repository demonstrates a common bug in Next.js applications where the page renders as blank despite seemingly correct code.  The issue is resolved by ensuring that the component export is properly formatted and returns valid JSX.
